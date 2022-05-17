@@ -1,5 +1,5 @@
 # Advanced-Production-Scripts
-More Advanced Powershell Scripts Including API Consuming scripts
+More Advanced Powershell Scripts
 
 These Scripts have been Writen by Lachlan
 
